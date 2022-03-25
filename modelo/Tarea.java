@@ -1,4 +1,4 @@
-package org.bedu.java.jse.basico.sesion3.postwork.Modelo;
+package org.bedu.java.jse.basico.sesion3.postwork.modelo;
 
 import java.time.LocalDate;
 
