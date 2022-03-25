@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9748d963-0270-4f4b-a970-e7f91fcf16ae" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaTareasMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListasTareas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo/ListaTareas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelo/Tarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/Lector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/ListaTareasMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/ListasTareas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/modelo/ListaTareas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/modelo/Tarea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/postwork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postwork.iml" afterDir="false" />
-    </list>
+    <list default="true" id="9748d963-0270-4f4b-a970-e7f91fcf16ae" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="ListaTareasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,6 +57,21 @@
       <option name="presentableId" value="Default" />
       <updated>1647547420616</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1648198532161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648198532161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1648198587344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648198587344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
