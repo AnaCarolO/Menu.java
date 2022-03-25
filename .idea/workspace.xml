@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9748d963-0270-4f4b-a970-e7f91fcf16ae" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaTareasMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListasTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelo/ListaTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelo/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/Lector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/ListaTareasMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/ListasTareas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/modelo/ListaTareas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/modelo/Tarea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/postwork/org/bedu/java/jse/basico/sesion3/postwork/postwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postwork.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26WlrBkuCBOTDCc1TVWcYICplo1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ListaTareasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bedu.java.jse.basico.sesion3.postwork.ListaTareasMain" />
+      <module name="postwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bedu.java.jse.basico.sesion3.postwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListaTareasMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9748d963-0270-4f4b-a970-e7f91fcf16ae" name="Changes" comment="" />
+      <created>1647547420616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647547420616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
